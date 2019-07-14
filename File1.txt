@@ -1,1 +1,2 @@
 This is GIT 1st file.
+Adding 2nd line.
