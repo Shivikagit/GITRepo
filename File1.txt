@@ -1,3 +1,6 @@
 This is GIT 1st file.
 Adding 2nd line.
 Adding after creating branch.
+Adding 3rd line in  master.
+Adding 3rd line when switched to branch without commiting master.
+4th line adding in branch.
